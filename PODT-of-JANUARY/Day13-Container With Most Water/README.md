@@ -3,7 +3,7 @@
 </a></h2>  <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
 
 <p>Given an array arr[] of non-negative integers, where each element arr[i] represents the height of the vertical lines, find the maximum amount of water that can be contained between any two lines, together with the x-axis.</p>
-<b>Note: <p>In the case of a single vertical line it will not be able to hold water.</p>
+<b>Note:</b> <p>In the case of a single vertical line it will not be able to hold water.</p>
 
 <b>Examples:</b>
 
