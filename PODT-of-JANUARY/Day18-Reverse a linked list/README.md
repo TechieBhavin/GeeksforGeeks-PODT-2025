@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1">PReverse a linked list
+<h2><a href="https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1">Reverse a linked list
 
 </a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
 
